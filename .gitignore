@@ -1,0 +1,39 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directory
+env/
+venv/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# macOS Finder folder attributes
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+*.cover
+*.py,cover
+*.cov
+.coverage
+.cache
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Logs and database
+*.log
+*.sqlite3
+
+# Ignore system files
+Thumbs.db
+
+# Environment variables file
+.env
